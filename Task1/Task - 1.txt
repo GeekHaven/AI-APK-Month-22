@@ -18,3 +18,6 @@ paste your colab link along with your github username
 {
     'Utkarsh' : "https://colab.research.google.com/drive/1wQyzYEDLq8WDvVVH5NEtK-hWgppsJPzN"
 },
+{
+    'yashg-116' : "https://colab.research.google.com/drive/1-rdan96eLoDB17zN8qUc0J0Pgyne3HfA?usp=sharing"
+}
