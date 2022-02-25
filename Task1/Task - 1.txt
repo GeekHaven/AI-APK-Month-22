@@ -24,3 +24,6 @@ paste your colab link along with your github username
 {
     'Kuber144' : "https://colab.research.google.com/drive/1IkTS-JJT96uVMHiP-7BOCnMQjlf94ELg"
 },
+{
+    'akshatsgh' : "https://colab.research.google.com/drive/1_JeBk-4wQB4d2ePMFDfYt-VVCvyME3Xu?usp=sharing"
+},
