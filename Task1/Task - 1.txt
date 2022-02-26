@@ -41,5 +41,8 @@ paste your colab link along with your github username
 },
 {
     'SanyamAgrawal07' : "https://colab.research.google.com/drive/1W-0CInLr_8xVZHU8jo18frhv0-i_QoJc?usp=sharing"
-}
+},
+{
+    'SuhailAhmadKhan' : "https://colab.research.google.com/drive/12PPhBiHPR1NqplK33bU0vrSqEdMmR_rC?usp=sharing"
+},
 
