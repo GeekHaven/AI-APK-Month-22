@@ -45,4 +45,7 @@ paste your colab link along with your github username
 {
     'SuhailAhmadKhan' : "https://colab.research.google.com/drive/12PPhBiHPR1NqplK33bU0vrSqEdMmR_rC?usp=sharing"
 },
+{   
+    'sushantk1274' : "https://colab.research.google.com/drive/10Q5M16X0TpPHa6iKWPwxWRdffK3l0HE2?usp=sharing"
+},
 
