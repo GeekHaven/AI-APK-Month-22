@@ -1,0 +1,17 @@
+Artificivio - AI Contest
+
+Python-Intro
+
+
+Instructions:
+Open the given colab notebook
+Save a copy to drive
+solve the functions
+Change its name to yourGithubID_rollno
+update sharing settings to restricted
+share to IEC2020132@iiita.ac.in
+paste your colab link along with your github username
+
+{
+    'Parth Soni' : "https://colab.research.google.com/drive/1Dh7bRGxUYRIa0XxYhZN4zRmMTZZkEhf8"
+},
