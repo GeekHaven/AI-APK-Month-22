@@ -53,10 +53,6 @@ paste your colab link along with your github username
 },
 
 
-
 {
     'Atharv23m' : "https://colab.research.google.com/drive/18xwcF7aeUmIWi3SjR7rWXnoLFOgpGEfy?usp=sharing"
 }
-{
-    'sanyam1259' : "https://colab.research.google.com/drive/13WlPMSaNzziie9zsXmi8NvwP_Djo97bP#scrollTo=L3oz1lcpAfRh"
-},
