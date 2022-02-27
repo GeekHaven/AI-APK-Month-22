@@ -19,5 +19,35 @@ paste your colab link along with your github username
     'Utkarsh' : "https://colab.research.google.com/drive/1wQyzYEDLq8WDvVVH5NEtK-hWgppsJPzN"
 },
 {
-     'Soham' : "https://colab.research.google.com/drive/1BFw3ymqjzqn3wqXcIN7FRdRKKIOoPdbB?authuser=1#scrollTo=Tgeia5p2CtlP"
+    'yashg-116' : "https://colab.research.google.com/drive/1-rdan96eLoDB17zN8qUc0J0Pgyne3HfA?usp=sharing"
+},
+{
+    'Kuber144' : "https://colab.research.google.com/drive/1IkTS-JJT96uVMHiP-7BOCnMQjlf94ELg"
+},
+{
+    'dakshita-tripathi' : "https://colab.research.google.com/drive/1AiK8zJW4YR7lSrzPc0UCRQplpURuU4cg?usp=sharing"
+},
+{
+    'akshatsgh' : "https://colab.research.google.com/drive/1_JeBk-4wQB4d2ePMFDfYt-VVCvyME3Xu?usp=sharing"
+},
+{
+    '03-Abhi' : "https://colab.research.google.com/drive/1RqFwxF6tiajurTKhAq40MGdi6QY99LG9?usp=sharing"
+},
+{
+    'tsunami03' : "https://colab.research.google.com/drive/1bKz0Z9yAO4dZJL6riMwYUXzGcy3PFMlZ?usp=sharing"
+},
+{
+    'Manas2403' : "https://colab.research.google.com/drive/17-Ndc5rRQhlYEDQUbD-dk3lMlu6JAppS?usp=sharing"
+},
+{
+    'SanyamAgrawal07' : "https://colab.research.google.com/drive/1W-0CInLr_8xVZHU8jo18frhv0-i_QoJc?usp=sharing"
+},
+{
+    'SuhailAhmadKhan' : "https://colab.research.google.com/drive/12PPhBiHPR1NqplK33bU0vrSqEdMmR_rC?usp=sharing"
+},
+{   
+    'sushantk1274' : "https://colab.research.google.com/drive/10Q5M16X0TpPHa6iKWPwxWRdffK3l0HE2?usp=sharing"
+},
+{
+    'SohamSlc5' : "https://colab.research.google.com/drive/1BFw3ymqjzqn3wqXcIN7FRdRKKIOoPdbB?usp=sharing"
 },
