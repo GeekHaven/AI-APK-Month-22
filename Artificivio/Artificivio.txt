@@ -15,3 +15,6 @@ paste your colab link along with your github username
 {
     'Parth Soni' : "https://colab.research.google.com/drive/1Dh7bRGxUYRIa0XxYhZN4zRmMTZZkEhf8"
 },
+{
+    'yashg-116' : "https://colab.research.google.com/drive/1SYbzzWI8CFH9F8avEcpsoJDfq__TqYoO?usp=sharing"
+},
