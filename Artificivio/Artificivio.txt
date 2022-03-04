@@ -26,7 +26,4 @@ paste your colab link along with your github username
 },
 {
     'Shubhankit-Pandey' : "https://colab.research.google.com/drive/1SM_xsHX_oXhZMgMyGmQRu5KfWFlnDkj8#scrollTo=34T-Y7xD_YET"
-},
-{
-     'Latanshu14' : "https://colab.research.google.com/drive/1fyv8STWwQ9ae_z9D-iBcuBI0l8VHKhYt#scrollTo=34T-Y7xD_YET"
-},
+}
