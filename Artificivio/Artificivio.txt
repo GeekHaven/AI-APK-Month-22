@@ -16,5 +16,5 @@ paste your colab link along with your github username
     'Parth Soni' : "https://colab.research.google.com/drive/1Dh7bRGxUYRIa0XxYhZN4zRmMTZZkEhf8"
 },
 {
-   'Aryanvaish03': "https://colab.research.google.com/drive/1dHjKdW6YtI-01_-Yg_7TnCe2RN36UAbw#scrollTo=B3pdlEL_9FEy"
+   "Aryanvaish03": "https://colab.research.google.com/drive/1dHjKdW6YtI-01_-Yg_7TnCe2RN36UAbw#scrollTo=B3pdlEL_9FEy"
 },
